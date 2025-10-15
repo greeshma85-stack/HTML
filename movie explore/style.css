@@ -45,11 +45,9 @@
 
 .movie-card img {
     width: 100%;
-    height: auto;
-    /* ✅ ensures full poster is visible */
+    height: auto; 
     border-radius: 8px;
     object-fit: cover;
-    /* ✅ prevents stretching */
 }
 
 .heading-container {
