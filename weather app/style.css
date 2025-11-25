@@ -1,4 +1,9 @@
-.container {
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bg-container {
     background: linear-gradient(to right, #4A90E2, #50C9C3);
     width: 100%;
     height: 100vh;
